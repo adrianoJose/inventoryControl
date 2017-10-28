@@ -1,0 +1,21 @@
+.posicionamento-btn {
+	float: right;
+}
+
+.tamanho-acoes-prod {
+	font-size: 15px;
+	color: #3498db;
+	background: #fff;
+	border-color: #3498db;
+}
+
+.tamanho-acoes-prod:hover {
+	font-size: 15px;
+	color: #fff;
+	background: #3498db;
+	border-color: #3498db;
+}
+
+.cor-fundo {
+	 background-color: #3498db;
+}

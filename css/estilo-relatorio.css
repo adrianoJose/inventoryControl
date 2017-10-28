@@ -1,0 +1,74 @@
+
+.cabecalho {
+	background: transparent;
+	width: 100%;
+	padding: 12px;
+	border: 1px;
+	border-color: #3498db;
+	font-size: 30px;
+	color: #3498db;
+	text-align: center;
+}
+
+.acoes {
+	
+	width: 100%;
+	height: 8%;
+}
+
+.conteudo-rel {
+	padding-top: 100px;
+	width: 77%;
+	height: 87%;
+	margin-bottom: 5px;
+	margin-right: 5px;
+	position: absolute;
+	background-color: #ecf0f1;
+}
+
+.tamanho-acoes {
+	font-size: 20px;
+	color: #3498db;
+	background: #ecf0f1;
+	border-color: #3498db;
+}
+
+.tamanho-acoes:hover {
+	font-size: 20px;
+	color: #ecf0f1;
+	background: #3498db;
+	border-color: #3498db;
+}
+
+.afastamento {
+	padding: 8px;
+}
+
+section.border, div.border {
+	border-style: solid;
+	border-color: #3498db;
+	border-width: 1px;
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+#add-contato {
+	color: #3498db;
+}
+
+.botoes-form {
+	width: 150px;
+	background: #ecf0f1;
+	color: #3498db;
+	padding: 7px; 
+	margin-right: 10px;
+	border-color: #3498db;
+	font-size: 16px;
+}
+
+.botoes-form:hover {
+	background: #3498db;
+	color: #ecf0f1;
+	padding: 7px; 
+	margin-right: 10px;
+}
